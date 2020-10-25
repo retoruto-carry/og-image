@@ -18,7 +18,7 @@ function getCss() {
         align-items: center;
         font-family: 'Noto Sans JP', sans-serif;
         font-weight: bold;
-        font-size: 40px;
+        font-size: 56px;
     }
     .card {
         width: 80%;
